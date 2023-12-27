@@ -2,12 +2,13 @@ package TEMA5.Metodos;
 
 import java.util.Scanner;
 
-public class Ejercicio1 {
+public class Ejercicio01_toFahrenheit {
 
-static Scanner scanner = new Scanner(System.in);
     public double toFahrenheit(double celsius) {
+
+        Scanner scanner = new Scanner(System.in);
         celsius = scanner.nextInt();
-        double farenheit = (celsius *9/5) +32;
+        double farenheit = (celsius * 9 / 5) + 32;
         return celsius;
     }
 }
