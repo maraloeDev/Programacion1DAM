@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ejercicio02_Divisor {
 
-    public String divisor() {
+    public static void divisor() {
 
         Scanner scanner = new Scanner(System.in);
 
@@ -31,7 +31,10 @@ public class Ejercicio02_Divisor {
 
         } while (divisor >= entero);
 
-        System.out.println();
-        return "El divisor mas grande es " + divisorMax;
+        System.out.println("El divisor mas grande es " + divisorMax);
+    }
+
+    public static void main(String[] args) {
+        divisor();
     }
 }

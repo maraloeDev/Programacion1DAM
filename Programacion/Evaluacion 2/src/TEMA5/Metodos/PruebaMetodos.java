@@ -7,7 +7,7 @@ public class PruebaMetodos {
         Ejercicio03_Par ejercicio03_par = new Ejercicio03_Par();
 
         System.out.println("Ejercicio 1: " + ejercicio01_toFahrenheit.toFahrenheit(0));
-        System.out.println("Ejercicio 2: " + ejercicio02_Divisor.divisor());
+        //System.out.println("Ejercicio 2: " + ejercicio02_Divisor.divisor());
         System.out.println("Ejercicio 3: " + ejercicio03_par.par(24));
     }
 }
