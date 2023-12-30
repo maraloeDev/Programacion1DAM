@@ -1,4 +1,4 @@
-package EXAMEN.Problema1;
+package EXAMEN.Examen1.Examen1.Problema1;
 
 import java.util.Random;
 import java.util.Scanner;

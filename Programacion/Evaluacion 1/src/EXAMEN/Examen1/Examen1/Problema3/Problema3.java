@@ -1,4 +1,4 @@
-package EXAMEN.Problema3;
+package EXAMEN.Examen1.Examen1.Problema3;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
