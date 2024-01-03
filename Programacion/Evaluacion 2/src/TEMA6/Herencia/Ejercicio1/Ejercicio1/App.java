@@ -1,4 +1,4 @@
-package TEMA6.Herencia;
+package TEMA6.Herencia.Ejercicio1;
 
 import static java.time.LocalDate.of;
 

@@ -1,8 +1,7 @@
-package TEMA6.Herencia;
+package TEMA6.Herencia.Ejercicio1;
 
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
-import java.util.Calendar;
 
 public class Alquiler {
 
