@@ -21,10 +21,8 @@ public class Ejercicio02_Datos {
 
     public static void sumaPares() {
         int suma = 0;
-
         for (int i = 0; i <= enteros.length - 1; i++) {
             if ((enteros[i] % 2) == 0) {
-                System.out.println("Los numeros pares son " + enteros[i]);
                 suma += enteros[i];
             }
         }
