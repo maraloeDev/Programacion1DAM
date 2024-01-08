@@ -1,4 +1,4 @@
-package TEMA7;
+package TEMA7.Vectores;
 
 import java.util.Arrays;
 import java.util.Scanner;
