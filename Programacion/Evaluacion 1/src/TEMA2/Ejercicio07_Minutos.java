@@ -4,7 +4,7 @@ public class Ejercicio07_Minutos {
 
     public static void main(String[] args) {
 
-        int segundos = 128;
+        int segundos = 200;
         int minutos = segundos / 60;
         int segundosRestantes = segundos % 60;
 

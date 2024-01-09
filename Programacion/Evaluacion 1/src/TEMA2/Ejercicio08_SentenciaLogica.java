@@ -6,7 +6,7 @@ public class Ejercicio08_SentenciaLogica {
 
         boolean positivo = true;
 
-        int numero = 100000;
+        int numero = -1;
 
         if (numero < 0){
             positivo=false;

@@ -26,7 +26,7 @@ String operacion="";
                 operacion.equals("+")? String.valueOf(n1 + n2) :
                         operacion.equals("-") ? String.valueOf(n1 - n2) :
                                 operacion.equals("*")? String.valueOf(n1 * n2) :
-                                        operacion.equals("/")? String.valueOf(n1 / n2) :
+                                        operacion.equals("/")? String.valueOf((double)n1 / n2) :
                                                 operacion.equals("%")? String.valueOf(n1 % n2) : "0";
 
         System.out.println("La suma de los numeros introducidos es " + resultado);

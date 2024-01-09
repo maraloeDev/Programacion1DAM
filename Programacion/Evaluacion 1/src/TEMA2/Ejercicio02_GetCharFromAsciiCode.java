@@ -8,7 +8,7 @@ public class Ejercicio02_GetCharFromAsciiCode {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Introduce un caracter :");
+        System.out.print("Introduce un numero :");
 
         double n = scanner.nextDouble();
 
